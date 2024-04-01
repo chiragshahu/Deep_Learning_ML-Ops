@@ -1,7 +1,14 @@
 # Deep_Learning_ML-Ops
 Self project to create an end-to-end kidney disease image classifier using (VGG-16) and exploring the usage of MLflow, DVC and dockerization in the project.
 
-# Kidney-Disease-Classification-MLflow-DVC
+# Steps done by me
+
+1. Created the template or skeleton to implement project end to end
+2. created environment installed required libraries & defined important functions in the utils.common file.
+
+
+
+# Deep-Learning-Project-MLflow-DVC-MLOps
 
 
 ## Workflows
