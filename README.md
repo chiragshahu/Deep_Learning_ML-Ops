@@ -5,7 +5,7 @@ Self project to create an end-to-end kidney disease image classifier using (VGG-
 
 1. Created the template or skeleton to implement project end to end
 2. created environment installed required libraries & defined important functions in the utils.common file.
-
+3. 
 
 
 # Deep-Learning-Project-MLflow-DVC-MLOps
