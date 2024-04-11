@@ -58,3 +58,30 @@ Now,
 open up you local host and port
 ```
 
+## MLflow
+
+- [Documentation](https://mlflow.org/docs/latest/index.html)
+
+##### cmd
+- mlflow ui
+
+### dagshub
+[dagshub](https://dagshub.com/)
+
+MLFLOW_TRACKING_URI=https://dagshub.com/chiragshahu/Deep_Learning_ML-Ops.mlflow \
+MLFLOW_TRACKING_USERNAME=chiragshahu \
+MLFLOW_TRACKING_PASSWORD=9a7767ada97484e74a5a1b2cdc77ff8cae11a8e3 \
+python script.py
+
+Run this to export as env variables:
+
+```bash
+
+export MLFLOW_TRACKING_URI=https://dagshub.com/chiragshahu/Deep_Learning_ML-Ops.mlflow
+
+export MLFLOW_TRACKING_USERNAME=chiragshahu 
+
+export MLFLOW_TRACKING_PASSWORD=9a7767ada97484e74a5a1b2cdc77ff8cae11a8e3
+
+```
+
