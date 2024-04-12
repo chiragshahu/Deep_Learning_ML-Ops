@@ -116,3 +116,31 @@ x==========x]
 [2024-04-12 02:02:32,970: INFO: main: >>>>>> stage Evaluation stage completed <<<<<<
 
 x==========x]
+[2024-04-12 19:03:44,439: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.102.43.16:8080]
+[2024-04-12 19:03:44,459: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-04-12 19:04:16,266: INFO: _internal: 10.102.43.16 - - [12/Apr/2024 19:04:16] "GET / HTTP/1.1" 200 -]
+[2024-04-12 19:04:17,746: INFO: _internal: 10.102.43.16 - - [12/Apr/2024 19:04:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -]
+[2024-04-12 19:04:29,029: INFO: _internal: 10.102.43.16 - - [12/Apr/2024 19:04:29] "GET / HTTP/1.1" 200 -]
+[2024-04-12 19:04:40,227: INFO: _internal: 127.0.0.1 - - [12/Apr/2024 19:04:40] "GET / HTTP/1.1" 200 -]
+[2024-04-12 19:04:42,447: INFO: _internal: 127.0.0.1 - - [12/Apr/2024 19:04:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -]
+[2024-04-12 19:05:06,951: INFO: _internal: 127.0.0.1 - - [12/Apr/2024 19:05:06] "GET / HTTP/1.1" 200 -]
+[2024-04-12 19:05:08,944: INFO: _internal: 127.0.0.1 - - [12/Apr/2024 19:05:08] "GET / HTTP/1.1" 200 -]
+[2024-04-12 19:05:09,102: INFO: _internal: 127.0.0.1 - - [12/Apr/2024 19:05:09] "GET / HTTP/1.1" 200 -]
+[2024-04-12 19:05:09,244: INFO: _internal: 127.0.0.1 - - [12/Apr/2024 19:05:09] "GET / HTTP/1.1" 200 -]
+[2024-04-12 19:05:09,447: INFO: _internal: 127.0.0.1 - - [12/Apr/2024 19:05:09] "GET / HTTP/1.1" 200 -]
+[2024-04-12 19:05:09,653: INFO: _internal: 127.0.0.1 - - [12/Apr/2024 19:05:09] "GET / HTTP/1.1" 200 -]
+[2024-04-12 19:05:09,847: INFO: _internal: 127.0.0.1 - - [12/Apr/2024 19:05:09] "GET / HTTP/1.1" 200 -]
+[2024-04-12 19:05:53,509: INFO: _internal: 127.0.0.1 - - [12/Apr/2024 19:05:53] "GET / HTTP/1.1" 200 -]
+[2024-04-12 19:05:53,820: INFO: _internal: 127.0.0.1 - - [12/Apr/2024 19:05:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -]
+[2024-04-12 19:06:05,211: INFO: _internal: 127.0.0.1 - - [12/Apr/2024 19:06:05] "GET / HTTP/1.1" 200 -]
+[2024-04-12 19:06:05,435: INFO: _internal: 127.0.0.1 - - [12/Apr/2024 19:06:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -]
+[2024-04-12 19:07:31,646: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.102.43.16:8080]
+[2024-04-12 19:07:31,647: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-04-12 19:08:18,620: INFO: _internal: 127.0.0.1 - - [12/Apr/2024 19:08:18] "GET / HTTP/1.1" 200 -]
+[2024-04-12 19:08:20,104: INFO: _internal: 127.0.0.1 - - [12/Apr/2024 19:08:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -]
